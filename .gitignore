@@ -1,0 +1,4 @@
+*.tfstate
+*.tfstate.backup
+.terraform/
+personal.auto.tfvars
